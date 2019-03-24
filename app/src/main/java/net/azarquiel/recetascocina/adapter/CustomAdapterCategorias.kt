@@ -9,9 +9,6 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.rowcategorias.view.*
 import net.azarquiel.recetascocina.model.Categoria
 
-/**
- * Created by pacopulido on 9/10/18.
- */
 class CustomAdapterCategorias(val context: Context,
                     val layout: Int
                     ) : RecyclerView.Adapter<CustomAdapterCategorias.ViewHolder>() {

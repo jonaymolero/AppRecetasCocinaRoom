@@ -9,9 +9,6 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.rowrecetas.view.*
 import net.azarquiel.recetascocina.model.Receta
 
-/**
- * Created by pacopulido on 9/10/18.
- */
 class CustomAdapterRecetas(val context: Context,
                     val layout: Int
                     ) : RecyclerView.Adapter<CustomAdapterRecetas.ViewHolder>() {
