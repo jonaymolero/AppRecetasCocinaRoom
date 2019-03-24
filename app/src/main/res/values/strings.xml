@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecetasCocina</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recetas">RecetasActivity</string>
+    <string name="title_activity_receta_detallada">RecetaDetalladaActivity</string>
+</resources>
